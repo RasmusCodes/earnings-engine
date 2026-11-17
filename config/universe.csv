@@ -1,0 +1,50 @@
+ticker,name,ciks,subindustry,status,end_date,end_note
+NVDA,NVIDIA,1045810,digital,active,,
+AVGO,Broadcom (Avago -> Broadcom Ltd -> Broadcom Inc),1441634;1649338;1730168,digital,active,,CIK chain: redomiciled 2016 and 2018
+AMD,Advanced Micro Devices,2488,digital,active,,
+INTC,Intel,50863,digital,active,,
+MRVL,Marvell Technology,1058057;1835632,digital,active,,CIK chain: redomiciled 2021
+LSCC,Lattice Semiconductor,855658,digital,active,,
+CRDO,Credo Technology,1807794,digital,active,,
+QCOM,Qualcomm,804328,rf_mobile,active,,
+SWKS,Skyworks Solutions,4127,rf_mobile,active,,
+QRVO,Qorvo,1604778,rf_mobile,acquired,2026-10-05,acquired by Skyworks (8-K 2.01 2026-10-05; Form 15 2026-10-15)
+CRUS,Cirrus Logic,772406,rf_mobile,active,,
+MTSI,MACOM Technology Solutions,1493594,rf_mobile,active,,
+TXN,Texas Instruments,97476,analog_mcu_power,active,,
+ADI,Analog Devices,6281,analog_mcu_power,active,,
+MCHP,Microchip Technology,827054,analog_mcu_power,active,,
+NXPI,NXP Semiconductors,1413447,analog_mcu_power,active,,10-Q filer from 2019 (20-F before)
+ON,ON Semiconductor,1097864,analog_mcu_power,active,,
+MPWR,Monolithic Power Systems,1280452,analog_mcu_power,active,,
+SLAB,Silicon Laboratories,1038074,analog_mcu_power,active,,
+DIOD,Diodes,29002,analog_mcu_power,active,,
+ALGM,Allegro MicroSystems,866291,analog_mcu_power,active,,
+WOLF,Wolfspeed (Cree),895419,analog_mcu_power,active,,Chapter 11 in 2025
+MU,Micron Technology,723125,memory,active,,
+AMAT,Applied Materials,6951,equipment_materials,active,,
+LRCX,Lam Research,707549,equipment_materials,active,,
+KLAC,KLA,319201,equipment_materials,active,,
+TER,Teradyne,97210,equipment_materials,active,,
+ENTG,Entegris,1101302,equipment_materials,active,,
+MKSI,MKS Instruments,1049502,equipment_materials,active,,
+ONTO,Onto Innovation (Nanometrics),704532,equipment_materials,active,,Nanometrics before the 2019 Rudolph merger
+FORM,FormFactor,1039399,equipment_materials,active,,
+ACLS,Axcelis Technologies,1113232,equipment_materials,active,,
+AMKR,Amkor Technology,1047127,equipment_materials,active,,
+COHR,Coherent Corp (II-VI),820318,optical,active,,
+LITE,Lumentum,1633978,optical,active,,
+AAOI,Applied Optoelectronics,1158114,optical,active,,
+BRCM,Broadcom Corp (pre-Avago),1054374,digital,acquired,2016-02-01,acquired by Avago
+XLNX,Xilinx,743988,digital,acquired,2022-02-14,acquired by AMD
+ALTR,Altera,768251,digital,acquired,2015-12-28,acquired by Intel
+MLNX,Mellanox Technologies,1356104,digital,acquired,2020-04-27,acquired by NVIDIA
+CAVM,Cavium,1175609,digital,acquired,2018-07-06,acquired by Marvell
+LSI,LSI Corp,703360,digital,acquired,2014-05-06,acquired by Avago
+MXIM,Maxim Integrated,743316,analog_mcu_power,acquired,2021-08-26,acquired by ADI
+LLTC,Linear Technology,791907,analog_mcu_power,acquired,2017-03-10,acquired by ADI
+FSL,Freescale Semiconductor,1392522,analog_mcu_power,acquired,2015-12-07,merged into NXP
+MSCC,Microsemi,310568,analog_mcu_power,acquired,2018-05-29,acquired by Microchip
+CY,Cypress Semiconductor,791915,analog_mcu_power,acquired,2020-04-16,acquired by Infineon
+IDTI,Integrated Device Technology,703361,analog_mcu_power,acquired,2019-03-29,acquired by Renesas
+SNDK_OLD,SanDisk (old),1000180,memory,acquired,2016-05-12,acquired by Western Digital

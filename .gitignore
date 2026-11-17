@@ -1,0 +1,16 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+
+# rebuilt from SEC EDGAR by the pipeline (about 1.1 GB): raw cache, extracted releases, SQLite store
+data/
+logs/
+
+# large or intermediate outputs (regenerated); the small result CSVs in out/ are committed
+out/*.pkl
+out/wf_cache/
+out/dashboard_data.json
+
+# superseded figure
+reports/figures/nvda_forecasts.png
