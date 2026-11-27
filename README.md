@@ -13,7 +13,8 @@ historical averages, simple linear baselines and management guidance. Model choi
 2021-2026 holdout was run once.
 
 **Full write-up: [reports/RESEARCH_REPORT.md](reports/RESEARCH_REPORT.md)** · interactive explorer:
-`reports/dashboard.html` (open locally; data embedded).
+`reports/dashboard.html` (open locally; data embedded) · project page:
+[rasmuscodes.github.io/projects/earnings-engine](https://rasmuscodes.github.io/projects/earnings-engine/).
 
 ## Results in brief
 
